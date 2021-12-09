@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnka
 - 👀 I’m interested in Mobile Apps 👩🏻‍💻
-- 🌱 I’m currently learning KOTLIN
+- 🌱 I’m currently learning ANGULAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/arnelatatic/
 
